@@ -1,0 +1,48 @@
+.l1:hover .book-desc {
+    visibility: visible;
+    opacity: 1;
+}
+
+.l2:hover .book-desc {
+    visibility: visible;
+    opacity: 1;
+}
+
+.l3:hover .book-desc {
+    visibility: visible;
+    opacity: 1;
+}
+
+.l4:hover .book-desc {
+    visibility: visible;
+    opacity: 1;
+}
+
+.l5:hover .book-desc {
+    visibility: visible;
+    opacity: 1;
+}
+
+.l6:hover .book-desc {
+    visibility: visible;
+    opacity: 1;
+}
+
+.l7:hover .book-desc {
+    visibility: visible;
+    opacity: 1;
+}
+
+.l8hover .book-desc {
+    visibility: visible;
+    opacity: 1;
+}
+
+.description {
+    transition: .2s;
+    transform: translateY(1em);
+}
+
+.l1:hover .description {
+    transform: translateY(0);
+  }

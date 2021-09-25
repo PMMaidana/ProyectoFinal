@@ -1,6 +1,7 @@
 body {
   background-color: #222233;
   color: #AACCFF;
+  text-decoration: none;
 }
 
 .fa {
@@ -115,4 +116,8 @@ padding: 10px;
 
 .l4 {
   grid-area: l4;
+}
+
+.icon-span{
+  text-align: center;
 }
